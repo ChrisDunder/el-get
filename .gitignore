@@ -1,4 +1,5 @@
 *.elc
+dir
 *~
 recipes/emacswiki/*
 recipes/elpa/*
