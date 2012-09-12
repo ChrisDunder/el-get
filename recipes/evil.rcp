@@ -8,4 +8,5 @@
        :features evil
        :depends undo-tree
        :build (("make" "all" "info"))
-       :info "doc")
+       :info "doc"
+       :post-init (evil-mode 1))
